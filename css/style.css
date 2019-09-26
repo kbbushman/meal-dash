@@ -131,9 +131,10 @@ h1 {
 
 .meals img {
   max-width: 250px;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
   transition: transform 0.5s, opacity 0.5s;
   cursor: pointer;
+  opacity: 0.8;
 }
 
 .meals img:hover {
